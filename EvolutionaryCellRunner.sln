@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionaryCellRunner.Plugins", "EvolutionaryCellRunner.Plugins.csproj", "{BBBC3B5C-69FF-DD20-48DF-FA30D0A7B934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionaryCellRunner.Editor.Plugins", "EvolutionaryCellRunner.Editor.Plugins.csproj", "{920F904E-CF19-4F30-FDDF-D7DBDE5BAC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBC3B5C-69FF-DD20-48DF-FA30D0A7B934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBC3B5C-69FF-DD20-48DF-FA30D0A7B934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBC3B5C-69FF-DD20-48DF-FA30D0A7B934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBC3B5C-69FF-DD20-48DF-FA30D0A7B934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920F904E-CF19-4F30-FDDF-D7DBDE5BAC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920F904E-CF19-4F30-FDDF-D7DBDE5BAC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920F904E-CF19-4F30-FDDF-D7DBDE5BAC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920F904E-CF19-4F30-FDDF-D7DBDE5BAC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
